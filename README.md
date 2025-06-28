@@ -6,8 +6,9 @@
 
 * 🎮 Currently exploring **web development, JavaScript, and React**
 * 🔧 Building projects with **HTML, CSS, JavaScript, C, Python**, and **IoT systems**
-* 🔬 Love tinkering with **coding challenges**, **algorithms**, and **new frameworks**
-* 🤖 Interested in combining **technology with healthcare and BCI**
+* 🤖 Eager to learn **AI/ML, DeepLearning and BCI**
+* 🔬 Love tinkering with **coding challenges**, **algorithms**, **new frameworks** and **AI/ML**
+* 🤖 Interested in collaborating in promising technologies.
 * 🚀 Always eager to **learn, build, and grow**
 
 ---
