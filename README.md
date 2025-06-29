@@ -8,7 +8,7 @@
 * 🔧 Building projects with **HTML, CSS, JavaScript, C, Python**, and **IoT systems**
 * 🤖 Eager to learn **AI/ML, DeepLearning and BCI**
 * 🔬 Love tinkering with **coding challenges**, **algorithms**, **new frameworks** and **AI/ML**
-* 🤖 Interested in collaborating in promising technologies.
+* 🤖 Interested in collaborating in **promising technologies.**
 * 🚀 Always eager to **learn, build, and grow**
 
 ---
