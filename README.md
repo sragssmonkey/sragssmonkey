@@ -4,9 +4,9 @@
 
 ### 🌟 A passionate tech enthusiast and learner from India
 
-* 🎮 Currently exploring **web development, JavaScript, and React**
+* 🎮 Currently exploring **web development, JavaScript, React and Django**
 * 🔧 Building projects with **HTML, CSS, JavaScript, C, Python**, and **IoT systems**
-* 🤖 Eager to learn **AI/ML, DeepLearning and BCI**
+* 🤖 Eager to learn **AI/ML, Deep Learning and BCI**
 * 🔬 Love tinkering with **coding challenges**, **algorithms**, **new frameworks** and **AI/ML**
 * 🤖 Interested in collaborating in **promising technologies.**
 * 🚀 Always eager to **learn, build, and grow**
